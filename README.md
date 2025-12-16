@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Du_zk</h2>
+<h2 align="center">Hi 👋 I'm Duziks</h2>
 
 <p align="center">
   <strong>Harbin Institute of Technology · Computer Science</strong>
@@ -17,6 +17,7 @@
 * 🌐 熟悉 **Vue 3 + Element UI** 前端开发
 * 🧠 对 **算法、系统、数据分析** 有持续兴趣
 * 🏓 业余爱好：乒乓球、羽毛球、轮滑
+* 🌐 个人博客：[https://duziks.github.io/](https://duziks.github.io/)
 
 ---
 
@@ -46,6 +47,28 @@
 
 * ✈️ **航班信息管理系统（Vue 3）**
   使用 Vue 3 + Axios，实现完整的增删改查功能
+  
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Duziks" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.luogu.com.cn/user/228287" target="_blank">
+    <img src="https://img.shields.io/badge/Luogu-FF6C37?style=for-the-badge&logo=none&logoColor=white" />
+  </a>
+  <a href="https://leetcode.cn/u/du-zhong-kun/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/Duziks" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-FF0000?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+  <a href="https://vjudge.net/user/Duziks" target="_blank">
+    <img src="https://img.shields.io/badge/VJudge-000000?style=for-the-badge&logo=none&logoColor=white" />
+  </a>
+</p>
 
 ---
 
