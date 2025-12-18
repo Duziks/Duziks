@@ -16,7 +16,7 @@
 * 💻 热爱编程，主要使用 **C / C++ / Python**
 * 🌐 熟悉 **Vue 3 + Element UI** 前端开发
 * 🧠 对 **算法、系统、数据分析** 有持续兴趣
-* 🏓 业余爱好：乒乓球、羽毛球、轮滑
+* 🏓 业余爱好：乒乓球、羽毛球
 * 🌐 个人博客：[https://duziks.github.io/](https://duziks.github.io/)
 
 ---
